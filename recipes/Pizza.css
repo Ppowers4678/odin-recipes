@@ -1,0 +1,30 @@
+div {
+    display: grid;
+    place-content: center;
+}
+.Subtitle {
+    font-size: 46px;
+font-style: italic
+}
+
+.desc {
+    text-align: center;
+    color: rgb(209, 97, 56);
+    font-size: 44;
+    font-weight: bold;
+}
+
+.title {
+    color: rgb(231, 143, 54);
+    font-size: 70px;
+    text-align: center;
+}
+ 
+li {
+    font-style: italic;
+
+}
+
+.list {
+    font-style: normal;
+}
