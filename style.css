@@ -1,0 +1,14 @@
+
+#OdinTheme {
+    Font-Size: 60px;
+    color: lightgrey;
+}
+
+
+
+
+.button {
+    background-color: rgb(168, 162, 121);
+    color: black;
+    font-weight: bold;
+}
